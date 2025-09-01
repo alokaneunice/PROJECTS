@@ -1,5 +1,12 @@
 {
     "notebook.lineNumbers": "on",
     "search.showLineNumbers": true,
-    "zenMode.hideLineNumbers": false
+    "zenMode.hideLineNumbers": false,
+    "[search-result]": {
+        "editor.lineNumbers": "on"
+    },
+    "terminal.integrated.cursorWidth": 1,
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.colorTheme": "Default Dark Modern"
 }
